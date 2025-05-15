@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a18ef87e906de3e9",
+        "id": "be45f14eb81b19be",
         "type": "tabs",
         "children": [
           {
-            "id": "ffbc73305abbb078",
+            "id": "d024ef3d63060368",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exam Structure and guide.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Exam Structure and guide"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8bada11cb77564bc",
@@ -183,14 +178,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ffbc73305abbb078",
+  "active": "d024ef3d63060368",
   "lastOpenFiles": [
+    "Exam Structure and guide.md",
     "Fawn.md",
     "Commands for rooms.md",
     "Meow.md",
     "02 attachments/Pasted image 20250507231706.png",
     "Practice rooms.md",
-    "Exam Structure and guide.md",
     "02 attachments/proof-text.png",
     "01 Templates/Theory Template.md",
     "01 Templates/Room template.md",
