@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be45f14eb81b19be",
+        "id": "d2ac44cc604e4399",
         "type": "tabs",
         "children": [
           {
-            "id": "d024ef3d63060368",
+            "id": "b261d5625e973ca1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8bada11cb77564bc",
@@ -178,7 +179,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d024ef3d63060368",
+  "active": "b261d5625e973ca1",
   "lastOpenFiles": [
     "Exam Structure and guide.md",
     "Fawn.md",
